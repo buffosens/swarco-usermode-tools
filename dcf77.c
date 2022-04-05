@@ -18,6 +18,7 @@
 #include <sys/stat.h>
 #include <sys/time.h>
 #include <sys/timex.h>
+#include <sys/io.h>
 
 #define inb(port) 0               /* we use only serial communication */
 
